@@ -1,5 +1,59 @@
 MIT License
+📂 Table of Contents
+Introduction
 
+Features
+
+Tech Stack
+
+Screenshots
+
+Getting Started
+
+Prerequisites
+
+Installation
+
+Usage
+
+Project Structure
+
+Deployment
+
+Testing
+
+Security
+
+Contributing
+
+Maintainers
+
+License
+
+📌 Introduction
+The Election App is a secure, web-based voting platform designed for digital elections using biometric fingerprint authentication and OTP verification. It ensures voter identity integrity, reduces fraud, and simplifies voting logistics.
+
+🚀 Features
+👤 Voter Registration with fingerprint + phone verification
+
+🧑‍💼 Candidate Management
+
+🗓️ Election Scheduling
+
+📍 Real-time Voting with OTP authentication
+
+📊 Result Visualization
+
+🔐 Blockchain-backed Vote Storage
+
+💻 Tech Stack
+Layer	Technology
+Frontend	HTML, CSS, JavaScript
+Backend	Python Flask
+Authentication	Biometric (Startek FM220U), OTP (Twilio)
+Database	MongoDB
+Blockchain	Python hashlib (custom chain)
+Deployment	GitHub, Netlify (frontend), Render/AWS (optional)
 Copyright (c) 2025 SaiVivek Ratnala
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
